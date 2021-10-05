@@ -6,8 +6,8 @@
     "content_scripts": [
         {
             "matches": [
-                "http://www.messenger.com/*",
-                "https://www.messenger.com/*"
+                "http://www.messenger.com/t/*",
+                "https://www.messenger.com/t/*"
             ],
             "js": [
                 "content.js"
